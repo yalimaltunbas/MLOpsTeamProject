@@ -453,8 +453,3 @@ mlops-mortality-prediction/
 
 ---
 
-<div align="center">
-
-
-
-</div>
