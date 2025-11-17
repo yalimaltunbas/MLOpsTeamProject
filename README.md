@@ -7,8 +7,8 @@
 
 Makine öğrenmesi ile hasta mortalite tahmini yapan binary classification projesi. Galatasaray Üniversitesi Veri Bilimi Uygulamaları dersi kapsamında geliştirilmiştir.
 
-**Proje Sahibi:** Yalım Altunbaş, Emrecan Erkuş, Artun Ağabeyoğlu, Ufuk Acar, Tuğçe Yılmaz
-**Tarih:** 18 Kasım 2025  
+**Proje Sahibi:** Yalım Altunbaş, Emrecan Erkuş, Artun Ağabeyoğlu, Ufuk Acar, Tuğçe Yılmaz 
+**Tarih:** 18 Kasım 2025   
 **Ders:** Veri Bilimi Uygulamaları - MLOps Takım Projesi
 
 ---
@@ -430,100 +430,6 @@ mlops-mortality-prediction/
         └── [experiment_runs]/
 ```
 
----
-
-## 🛠️ Geliştirme
-
-### Yeni Özellik Ekleme
-
-```bash
-# Yeni branch oluştur
-git checkout -b feature/new-model
-
-# Değişikliklerini yap
-# ...
-
-# Commit
-git add .
-git commit -m "feat: Add new gradient boosting model"
-
-# Push
-git push origin feature/new-model
-```
-
-### Test Çalıştırma
-
-```bash
-# Tüm testleri çalıştır
-pytest tests/
-
-# Coverage raporu
-pytest --cov=src tests/
-```
-
-### Code Quality
-
-```bash
-# Black formatter
-black src/ experiments/
-
-# Flake8 linting
-flake8 src/ experiments/
-```
-
----
-
-## 🔮 Gelecek Çalışmalar
-
-### Kısa Vadeli
-
-- [ ] Threshold optimization ile Recall iyileştirme
-- [ ] SMOTE tüm modellerde deneme
-- [ ] Hyperparameter tuning (GridSearchCV/Optuna)
-- [ ] Feature importance analizi
-- [ ] SHAP values ile model interpretability
-
-### Orta Vadeli
-
-- [ ] Ensemble yöntemleri (Voting/Stacking)
-- [ ] Feature engineering (yeni türetilmiş özellikler)
-- [ ] Model deployment (Flask/FastAPI)
-- [ ] Docker containerization
-- [ ] CI/CD pipeline kurulumu
-
-### Uzun Vadeli
-
-- [ ] Production ML pipeline
-- [ ] Model monitoring ve drift detection
-- [ ] A/B testing infrastructure
-- [ ] Gerçek hastane verisi ile validasyon
-- [ ] Clinical expert feedback integration
-
----
-
-## 🤝 Katkıda Bulunma
-
-Bu proje eğitim amaçlıdır. Katkılarınızı memnuniyetle karşılarım!
-
-### Nasıl Katkıda Bulunabilirsiniz?
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add AmazingFeature'`)
-4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request açın
-
-### Commit Mesaj Kuralları
-
-```
-feat: Yeni özellik
-fix: Bug düzeltmesi
-docs: Dokümantasyon değişikliği
-style: Kod formatı (işlevselliği etkilemez)
-refactor: Kod yeniden yapılandırma
-test: Test ekleme/düzeltme
-chore: Build, konfigürasyon değişiklikleri
-```
 
 
 ## 📚 Kaynaklar
