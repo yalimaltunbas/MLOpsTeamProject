@@ -1,12 +1,12 @@
 # MLOps Takım Projesi - Final Raporu
 ## Makine Öğrenmesi ile Tıbbi Mortalite Tahmini
 
-**Ekip Üyeleri:** Yalim, Emrecan, Artun, Ufuk, Tugce 
+**Ekip Üyeleri:** Yalım Altunbaş, Emrecan Erkuş, Artun Ağabeyoğlu, Ufuk Acar, Tuğçe Yılmaz  
 **Ders:** Veri Bilimi Uygulamaları - MLOps Takım Projesi  
 **Kurum:** Galatasaray Üniversitesi  
 **Tarih:** 18 Kasım 2025  
 **MLflow Deney:** Tibbi Mortalite Tahmini  
-**GitHub:** tugceyilmazzz, yalimaltunbas, Emrecan-and, 
+**GitHub:** yalimaltunbas, Emrecan-and, artunagabeyoglu, Ufukacar00, tugceyilmazzz
 
 ---
 
