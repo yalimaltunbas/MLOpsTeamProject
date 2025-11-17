@@ -8,7 +8,7 @@
 
 ## İçindekiler
 
-1. [Yönetici Özeti](#yönetici-özeti)
+1. [Özet](#özet)
 2. [Giriş](#1-giriş)
    - 1.1 [Proje Motivasyonu](#11-proje-motivasyonu)
    - 1.2 [Problem Tanımı](#12-problem-tanımı)
@@ -39,7 +39,7 @@
 
 ---
 
-## Yönetici Özeti
+## Özet
 
 Bu proje, sentetik tıbbi veri seti (`synthetic_medical_data`) kullanarak hastaların yaşam durumunu (Dead = 0/1) tahmin eden bir makine öğrenmesi modeli geliştirmeyi amaçlamaktadır. Çalışmada veri temizleme, eksik değer işlemleri, kategorik değişken kodlamaları, eğitim-test bölünmesi gibi temel veri hazırlama adımları uygulanmıştır.
 
@@ -544,12 +544,3 @@ project/
 
 ---
 
-## İletişim
-
-**Proje Sahibi:** Tuğçe Yılmaz  
-**Kurum:** Galatasaray Üniversitesi - Veri Bilimi Tezsiz Yüksek Lisans Programı  
-**Tarih:** 2025
-
----
-
-**© 2025 Galatasaray Üniversitesi. Tüm hakları saklıdır.**
