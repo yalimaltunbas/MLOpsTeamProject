@@ -7,8 +7,8 @@
 
 Makine öğrenmesi ile hasta mortalite tahmini yapan binary classification projesi. Galatasaray Üniversitesi Veri Bilimi Uygulamaları dersi kapsamında geliştirilmiştir.
 
-**Proje Sahibi:** Tuğçe Yılmaz (@tugce-yilmaz_tpkapi)  
-**Tarih:** 17 Kasım 2025  
+**Proje Sahibi:** Yalım Altunbaş, Emrecan Erkuş, Artun Ağabeyoğlu, Ufuk Acar, Tuğçe Yılmaz
+**Tarih:** 18 Kasım 2025  
 **Ders:** Veri Bilimi Uygulamaları - MLOps Takım Projesi
 
 ---
@@ -525,33 +525,6 @@ test: Test ekleme/düzeltme
 chore: Build, konfigürasyon değişiklikleri
 ```
 
----
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
----
-
-## 📧 İletişim
-
-**Tuğçe Yılmaz**  
-- GitHub: [@tugce-yilmaz_tpkapi](https://github.com/tugce-yilmaz_tpkapi)
-- Email: tugce.yilmaz@example.com
-- LinkedIn: [linkedin.com/in/tugce-yilmaz](https://linkedin.com/in/tugce-yilmaz)
-
-**Proje Linki:** [https://github.com/tugce-yilmaz/mlops-mortality-prediction](https://github.com/tugce-yilmaz/mlops-mortality-prediction)
-
----
-
-## 🙏 Teşekkürler
-
-- **Galatasaray Üniversitesi** - Veri Bilimi Uygulamaları Dersi
-- **MLflow Team** - Mükemmel experiment tracking aracı için
-- **Scikit-learn Contributors** - Harika ML kütüphanesi için
-- **Tüm açık kaynak topluluğu** - Sürekli ilham için
-
----
 
 ## 📚 Kaynaklar
 
@@ -576,10 +549,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 <div align="center">
 
-**⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
-Made with ❤️ by Tuğçe Yılmaz
-
-© 2025 Galatasaray Üniversitesi
 
 </div>
